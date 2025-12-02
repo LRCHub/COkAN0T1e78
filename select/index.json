@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "サマーサイダー (M@STER VERSION) [久川颯ソロ・リミックス]",
+  "base_artist": "久川颯 (長江里加)",
+  "createdAt": "2025-12-02T12:23:21.322560Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サマーサイダー - GAME VERSION",
+      "artist": "久川颯 (CV: 長江里加), 乙倉悠貴 (CV: 中島由貴)",
+      "has_synced": true,
+      "path": "select/01_サマーサイダー_-_GAME_VERSION_久川颯_(CV__長江里加),_乙倉悠貴_(CV__中島由貴).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サマーサイダー (GAME VERSION)",
+      "artist": "久川颯(長江里加),乙倉悠貴(中島由貴)",
+      "has_synced": false,
+      "path": "select/pl_01_サマーサイダー_(GAME_VERSION)_久川颯(長江里加),乙倉悠貴(中島由貴).txt"
+    }
+  ]
+}
